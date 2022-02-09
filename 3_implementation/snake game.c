@@ -1,4 +1,3 @@
-//LEARNPROGRAMO-PROGRAMMING MADE SIMPLE
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -8,7 +7,6 @@
 #include <time.h>
 #include <windows.h>
 #include <process.h>
-
 #define UP 72
 #define DOWN 80
 #define LEFT 75
@@ -36,7 +34,6 @@ void Up();
 void Right();
 void ExitGame();
 int Scoreonly();
-
 struct coordinate
 {
     int x;
@@ -45,42 +42,24 @@ struct coordinate
 };
 
 typedef struct coordinate coordinate;
-
 coordinate head, bend[500],food,body[30];
-
 int main()
 {
-
-    char key;
-
-    Print();
-
-    system("cls");
-
-    load();
-
-    length=5;
-
-    head.x=25;
-
-    head.y=20;
-
-    head.direction=RIGHT;
-
-    Boarder();
-
-    Food(); //to generate food coordinates initially
-
-    life=3; //number of extra lives
-
-    bend[0]=head;
-
-    Move();   //initialing initial bend coordinate
-
-    return 0;
-
+  char key;
+   Print();
+system("cls");
+load();
+ length=5;
+ head.x=25;
+ head.y=20;
+head.direction=RIGHT;
+Boarder();
+Food(); //to generate food coordinates initially
+ life=3; //number of extra lives
+ bend[0]=head;
+Move();   //initialing initial bend coordinate
+return 0;
 }
-
 void Move()
 {
     int a,i;
