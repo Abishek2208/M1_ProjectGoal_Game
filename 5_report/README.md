@@ -46,9 +46,9 @@ Using c programming .
       
 # TEST PLAN And Output:
 ## Table no: High level test plan
- Test ID	 Description	                                         Exp I/P	                                                  Exp O/P
-H_01	Check if the game for playing	                              ENTER ANY KEY                                          IMPLEMENTED
-H_02	 Player exit the game	                               PRESS X TO EXIT GAME                                          IMPLEMENTED            H_03	Record the game after finishing game                    no input                                                     IMPLEMENTED
+ Test ID	                        Description	                                         Exp I/P	                                                  Exp O/P
+H_01	                      Check if the game for playing	                              ENTER ANY KEY                                          IMPLEMENTED
+H_02	                                Player exit the game	                               PRESS X TO EXIT GAME                                  IMPLEMENTED                    H_03                           	Record the game after finishing game                    no input                                                     IMPLEMENTED
 
 ## Table no: LOW level test plan
  Test ID	     Description	                                         Exp I/P	                                                  Exp O/P
