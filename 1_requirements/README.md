@@ -9,9 +9,10 @@ The project what I have done is a Game based project and named it as Snake game.
 •	Strategy plan is required for the snake
 
 # High Level Requirements
-     ID                    DESCRIPTION	                           STATUS
-    HR01   Choose the game and type the guest name	               Implemented
-    HR02             Player exit the game	                       Implemented
+   |ID|DESCRIPTION|STATUS|
+   |:-|:----------|:-----|
+   |HR01|Choose the game and type the guest name|Implemented|
+   |HR02|Player exit the game|Implemented|
 
 # Low Level Requirements
      ID              DESCRIPTION	                    STATUS
