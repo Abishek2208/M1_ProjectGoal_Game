@@ -15,9 +15,10 @@ The project what I have done is a Game based project and named it as Snake game.
    |HR02|Player exit the game|Implemented|
 
 # Low Level Requirements
-     ID              DESCRIPTION	                    STATUS
-     LR01   should choose the game	                 Implemented
-     LR02      input is required	                  Implemented
+     |ID|DESCRIPTION|STATUS
+     |:-|:----------|:-----|
+     |LR01|should choose the game|Implemented|
+     |LR02|input is required|Implemented|
 
 
 
