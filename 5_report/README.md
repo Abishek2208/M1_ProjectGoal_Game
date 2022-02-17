@@ -1,64 +1,67 @@
-# Introduction
-Snake game was popular in old mobile phones which can be very easily developed using c program. To build this project you require basic understanding of c syntax. 
-The project what I have done is a Game based project and named it as Snake game. where players will select a game.
+# VOTING MACHINE
+# INTORDUCTION
+we gonna make a simple graphic-based project Electronic Voting Machine Prototype using C, which demonstrates the working of the electronic voting machine.A voting machine is a machine used to record votes without paper. The first voting machines were mechanical but it is increasingly more common to use electronic voting machines.
 
-# Features
-•	Where game is build with in boundary for players
-•	White and black background 
-•	symbols and alphabets represents snake and fruits respectively
-•	Strategy plan is required for the snake
-
+# OBJECTIVE
+• To build a system that can receive input and generate automatically output in easy way and short time.
+•	To build a monitoring system that is able to monitor
+•	To store properly
+•	To enter and preserve details
 
 # SWOT
 ## STRENGTH:
-It can be easily targeted for gamers.
+Simple & Easy to Use.
+Highly Secure, Scalable & Reliable.
 ## WEAKNESS:
+The data stored is prone to cyber hacks.
 Code implemented can be done better 
 ## OPPORTUNITIES:
- Increasing graphics quality we can reach the customers easily.
+ Used during election times.
 ## THREATNESS:
- Other similar games.
- Advancement in technology and more competitors for game.
+  This can often lead to lost data and sometimes, the data easily obtainable by third party members or the outside organization members.
+
 
 # 4W's & 1H
 ## Why
-It is because the players can play the games and it is also a strategy game . 
+It is because for the elction time to count votes . 
 ## Who
-It is mainly focused for kids and adults .
+It is mainly focused for the administration for counting votes .
 ## When
-It can be played whenever the users need relaxation.
+During election time.
 ## Where
-As it is a game and not restricted to any people 
+At the election poll and election count  time. 
 ## How
 Using c programming .
 
+
 # High Level Requirements
-     ID                    DESCRIPTION	                           STATUS
-    HR01                Choose the game                      	  Implemented
-    HR02             Player exit the game	                       Implemented
+   |ID|DESCRIPTION|
+   |:-|:----------|
+   |HLR1|C LANGUAGE|
+   |HLR2|OS WINDOWS|
+   |HLR3|OS LINUX|
 
 # Low Level Requirements
-     ID              DESCRIPTION	                    STATUS
-     LR01   should choose the game	                 Implemented
-     LR02      input is required	                  Implemented
+     |ID|DESCRIPTION|
+     |:-|:----------|
+     |LLR1|POLLING VOTE|
+     |LLR2|DISPLAY VOTE|
+     |LLR3|RECORD VOTE|
      
      
       
 # TEST PLAN And Output:
-## Table no: High level test plan
- Test ID	                        Description	                                         Exp I/P	                                                  Exp O/P
-H_01	                      Check if the game for playing	                              ENTER ANY KEY                                          IMPLEMENTED
-H_02	                                Player exit the game	                               PRESS X TO EXIT GAME                                  IMPLEMENTED                    H_03                           	Record the game after finishing game                    no input                                                     IMPLEMENTED
+ |ID|DESCRIPTION|o\p|
+ |:-|:----------|:--|
+ |HLR1|C LANGUAGE|IMPLEMENTED|
+ |HLR2|OS WINDOWS|IMPLEMENTED|
+ |HLR3|OS LINUX|IMPLEMENTED|
+
 
 ## Table no: LOW level test plan
- Test ID	     Description	                                         Exp I/P	                                                  Exp O/P
-L_01        CHOOSE THE GAME                                        ENTER THE GAME BY CLICKING ANY KEY                         IMPLEMENTED
-L_02         MOVEMENT OF SNAKE                                   ENTER W,A,S,D                                                IMPLEMENTED
-L_03         EATING FOOD FOR SNAKE                                REPRESENTED BY SYMBOL                                       IMPLEMENTED
-L_04         BOUNDARY FOR THE GAME                                GIVEN HEIGHT AND WIDTH                                      IMPLEMENTED    
-     
-     
-
-
-
+|ID|DESCRIPTION|o\p|
+|:-|:----------|:--|
+|LLR1|POLLING VOTE|IMPLEMENTED|
+|LLR2|DISPLAY VOTE|IMPLEMENTED|
+|LLR3|RECORD VOTE|IMPLEMENTED|
 
