@@ -1,5 +1,5 @@
-snake_game=Game
-SRC=src/Snakegame.c src/
+Voting=Game
+SRC=src/Voting.c 
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
@@ -13,10 +13,10 @@ else
 endif
 
 Build : $(SRC)
-	gcc $(SRC) -Iinc -o $(call FixPath,$(SNAKE_GAME).$(EXEC)) -lm
+	gcc $(SRC) -Iinc -o $(call FixPath,$(Game).$(EXEC)) -lm
 
 Run : Build
-	./$(call FixPath,$(SNAKE_GAME).$(EXEC))
+	./$(call FixPath,$(Game).$(EXEC))
 
 Clean:
 	$(RM) $(call FixPath,*.out)
