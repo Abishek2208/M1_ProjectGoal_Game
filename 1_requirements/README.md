@@ -9,17 +9,7 @@ The project what I have done is a Game based project and named it as Snake game.
 •	symbols and alphabets represents snake and fruits respectively
 •	Strategy plan is required in guess the number game
 
-# High Level Requirements
-    |ID|DESCRIPTION|
-    |:-|:----------|
-    |HR01|Choose the game and type the guest name|
-    |HR02|Player exit the game|
 
-# Low Level Requirements
-            |ID|DESCRIPTION|
-            |:-|:----------|
-            |LR01|should choose the game|
-            |LR02|input is required|
 
 # SWOT
 ## STRENGTH:
@@ -42,4 +32,16 @@ It is mainly focused for kids and adults .
 It can be played whenever the users need relaxation.
 ## Where
 As it is a game and not restricted to any people 
+
+# High Level Requirements
+    |ID|DESCRIPTION|
+    |:-|:----------|
+    |HR01|Choose the game and type the guest name|
+    |HR02|Player exit the game|
+
+# Low Level Requirements
+            |ID|DESCRIPTION|
+            |:-|:----------|
+            |LR01|should choose the game|
+            |LR02|input is required|
 
