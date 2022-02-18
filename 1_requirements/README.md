@@ -43,7 +43,6 @@ Using c programming .
 
 # Low Level Requirements
      |ID|DESCRIPTION|
-     |:-|:----------|
      |LLR1|POLLING VOTE|
      |LLR2|DISPLAY VOTE|
      |LLR3|RECORD VOTE|
