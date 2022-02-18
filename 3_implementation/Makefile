@@ -1,22 +1,12 @@
-Voting=Game
-SRC=src/Voting.c 
-ifdef OS
-   RM = del /q
-   FixPath = $(subst /,\,$1)
-   EXEC = exe
-else
-   ifeq ($(shell uname), Linux)
-      RM = rm -rf
-      FixPath = $1
-	  EXEC = out
-   endif
-endif
+objs = snake.o greedysnake.o 
+snake:$(objs)
+	@gcc -o snake $(objs) -lncurses
+	@echo "Complete!\n"
 
-Build : $(SRC)
-	gcc $(SRC) -Iinc -o $(call FixPath,$(Game).$(EXEC)) -lm
+snake.o:snake.h 
 
-Run : Build
-	./$(call FixPath,$(Game).$(EXEC))
+greedysnake.o:snake.h  
 
-Clean:
-	$(RM) $(call FixPath,*.out)
+.PHONY:clean
+clean:
+	-rm snake $(objs)
