@@ -1,15 +1,15 @@
 # TEST PLAN And Output:
  |ID|DESCRIPTION|o\p|
  |:-|:----------|:--|
- |HLR1|C LANGUAGE|IMPLEMENTED|
- |HLR2|OS WINDOWS|IMPLEMENTED|
+ |HLR1|Choose the game and type the guest name|IMPLEMENTED|
+ |HLR2|Player exit the game|IMPLEMENTED|
  |HLR3|OS LINUX|IMPLEMENTED|
 
 
 ## Table no: LOW level test plan
 |ID|DESCRIPTION|o\p|
 |:-|:----------|:--|
-|LLR1|POLLING VOTE|IMPLEMENTED|
-|LLR2|DISPLAY VOTE|IMPLEMENTED|
-|LLR3|RECORD VOTE|IMPLEMENTED|
+|LLR1|should choose the game|IMPLEMENTED|
+|LLR2|input is required|IMPLEMENTED|
+
 
