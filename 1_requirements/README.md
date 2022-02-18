@@ -1,50 +1,45 @@
-# VOTING MACHINE
-# INTORDUCTION
-we gonna make a simple graphic-based project Electronic Voting Machine Prototype using C, which demonstrates the working of the electronic voting machine.A voting machine is a machine used to record votes without paper. The first voting machines were mechanical but it is increasingly more common to use electronic voting machines.
+# SNAKE GAME
+# Introduction
+Snake game was popular in old mobile phones which can be very easily developed using c program. To build this project you require basic understanding of c syntax. 
+The project what I have done is a Game based project and named it as Snake game. where players will select a game.
 
-# OBJECTIVE
-• To build a system that can receive input and generate automatically output in easy way and short time.
-•	To build a monitoring system that is able to monitor
-•	To store properly
-•	To enter and preserve details
+# Features
+•	Where game is build with in boundary for players
+•	White and black background 
+•	symbols and alphabets represents snake and fruits respectively
+•	Strategy plan is required in guess the number game
+
+# High Level Requirements
+    |ID|DESCRIPTION|
+    |:-|:----------|
+    |HR01|Choose the game and type the guest name|
+    |HR02|Player exit the game|
+
+# Low Level Requirements
+            |ID|DESCRIPTION|
+            |:-|:----------|
+            |LR01|should choose the game|
+            |LR02|input is required|
 
 # SWOT
 ## STRENGTH:
-Simple & Easy to Use.
-Highly Secure, Scalable & Reliable.
+                 It can be easily targeted for gamers.
 ## WEAKNESS:
-The data stored is prone to cyber hacks.
-Code implemented can be done better 
+                 Graphics can be improved 
+                  Code implemented can be done better 
 ## OPPORTUNITIES:
- Used during election times.
+                   Increasing graphics quality we can reach the customers easily.
 ## THREATNESS:
-  This can often lead to lost data and sometimes, the data easily obtainable by third party members or the outside organization members.
-
+                      Other similar games.
+                      Advancement in technology and more competitors for game.
 
 # 4W's & 1H
 ## Why
-It is because for the elction time to count votes . 
+It is because the players can play the games and it is also a strategy game . 
 ## Who
-It is mainly focused for the administration for counting votes .
+It is mainly focused for kids and adults .
 ## When
-During election time.
+It can be played whenever the users need relaxation.
 ## Where
-At the election poll and election count  time. 
-## How
-Using c programming .
-
-
-# High Level Requirements
-   |ID|DESCRIPTION|
-   |:-|:----------|
-   |HLR1|C LANGUAGE|
-   |HLR2|OS WINDOWS|
-   |HLR3|OS LINUX|
-
-# Low Level Requirements
-     |ID|DESCRIPTION|
-     |LLR1|POLLING VOTE|
-     |LLR2|DISPLAY VOTE|
-     |LLR3|RECORD VOTE|
-
+As it is a game and not restricted to any people 
 
