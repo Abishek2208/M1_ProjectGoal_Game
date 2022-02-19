@@ -1,4 +1,5 @@
 # M1_ProjectGoal_Gaming
+# SNAKE GAME
 Snake game was popular in old mobile phones which can be very easily developed using c program. To build this project you require basic understanding of c syntax. The project what I have done is a Game based project and named it as Snake game. where players will select a game.
 
 ![Code Grade](https://api.codiga.io/project/31205/score/svg)
