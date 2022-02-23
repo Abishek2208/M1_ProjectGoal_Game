@@ -1,6 +1,6 @@
 /**
  * @file snake.c
- * @author your name (you@domain.com)
+ * @author 
  * @brief 
  * @version 0.1
  * @date 2022-02-18
