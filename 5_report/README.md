@@ -40,10 +40,10 @@ As it is a game and not restricted to any people
     |HR02|Player exit the game|
 
 # Low Level Requirements
-            |ID|DESCRIPTION|
-            |:-|:----------|
-            |LR01|should choose the game|
-            |LR02|input is required|
+    |ID|DESCRIPTION|
+    |:-|:----------|
+    |LR01|should choose the game|
+    |LR02|input is required|
             
 # TEST PLAN And Output:
  |ID|DESCRIPTION|o\p|
