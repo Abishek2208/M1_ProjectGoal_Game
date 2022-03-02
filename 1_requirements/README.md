@@ -34,10 +34,12 @@ It can be played whenever the users need relaxation.
 As it is a game and not restricted to any people 
 
 # High Level Requirements
-    |ID|DESCRIPTION|
-    |:-|:----------|
-    |HR01|Choose the game and type the guest name|
-    |HR02|Player exit the game|
+     |ID|DESCRIPTION|
+ |:-|:----------|
+ |HLR1|Choose the game and type the guest name|
+ |HLR2|Player exit the game|
+ |HLR3|OS LINUX|
+
 
 # Low Level Requirements
             |ID|DESCRIPTION|
