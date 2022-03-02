@@ -41,7 +41,7 @@ As it is a game and not restricted to any people
  |HLR3|OS LINUX|
 
 # Low Level Requirements
-    |ID|DESCRIPTION|
+|ID|DESCRIPTION|
 |:-|:----------|
 |LLR1|should choose the game|
 |LLR2|input is required|
