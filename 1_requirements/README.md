@@ -42,8 +42,8 @@ As it is a game and not restricted to any people
 
 
 # Low Level Requirements
-            |ID|DESCRIPTION|
-            |:-|:----------|
-            |LR01|should choose the game|
-            |LR02|input is required|
+|ID|DESCRIPTION|
+|:-|:----------|
+|LLR1|should choose the game|
+|LLR2|input is required|
 
