@@ -34,7 +34,7 @@ It can be played whenever the users need relaxation.
 As it is a game and not restricted to any people 
 
 # High Level Requirements
-     |ID|DESCRIPTION|
+ |ID|DESCRIPTION|
  |:-|:----------|
  |HLR1|Choose the game and type the guest name|
  |HLR2|Player exit the game|
